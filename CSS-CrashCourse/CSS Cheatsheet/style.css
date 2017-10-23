@@ -1,0 +1,12 @@
+/* The General Rule 
+
+selector {
+  property: value;
+  anotherproperty: value;
+}
+
+*/
+
+body {
+    background-color: #f4f4f4;
+}
