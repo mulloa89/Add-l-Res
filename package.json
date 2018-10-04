@@ -1,0 +1,23 @@
+{
+  "name": "add-l-res",
+  "version": "1.0.0",
+  "description": "Repo for additional resources and tiny projects.",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.24.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mulloa89/Add-l-Res.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mulloa89/Add-l-Res/issues"
+  },
+  "homepage": "https://github.com/mulloa89/Add-l-Res#readme"
+}
